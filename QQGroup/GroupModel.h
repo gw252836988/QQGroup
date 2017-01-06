@@ -15,4 +15,6 @@
 @property(nonatomic,copy) NSString * title;
 @property(nonatomic,assign) bool isOpen;
 +(instancetype)modelWithDict:(NSDictionary *)Dict;
+
+//this is my test
 @end

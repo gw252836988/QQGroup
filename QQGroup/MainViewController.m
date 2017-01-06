@@ -98,7 +98,7 @@
     
     GroupModel * model=self.groupArray[section];
     return model.isOpen?model.friends.count:0;
-    NSLog(@"123");
+   
 }
 
 /*
