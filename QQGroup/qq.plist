@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>friends</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>xy</string>
+				<key>message</key>
+				<string>秉忠贞之志，守谦退之节</string>
+				<key>name</key>
+				<string>荀彧</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>gj</string>
+				<key>message</key>
+				<string>就这样吧～～～</string>
+				<key>name</key>
+				<string>郭嘉</string>
+			</dict>
+		</array>
+		<key>online</key>
+		<string>5</string>
+		<key>title</key>
+		<string>朋友</string>
+	</dict>
+	<dict>
+		<key>friends</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>gy</string>
+				<key>message</key>
+				<string>看尔等插标卖首</string>
+				<key>name</key>
+				<string>关羽</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>mc</string>
+				<key>message</key>
+				<string>全军突击</string>
+				<key>name</key>
+				<string>马超</string>
+			</dict>
+		</array>
+		<key>online</key>
+		<string>5</string>
+		<key>title</key>
+		<string>同事</string>
+	</dict>
+</array>
+</plist>
